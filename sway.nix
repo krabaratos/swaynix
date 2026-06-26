@@ -42,6 +42,7 @@
 
    #wayland
     wl-clipboard
+    swaybg
 
     # GTK theming
     nwg-look
