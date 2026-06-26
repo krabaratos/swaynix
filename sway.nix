@@ -40,6 +40,9 @@
   environment.systemPackages = with pkgs; [  # <-- "with pkgs;" is critical here!
     kitty
 
+   #wayland
+    wl-clipboard
+
     # GTK theming
     nwg-look
       
